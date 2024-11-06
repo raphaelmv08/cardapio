@@ -1,0 +1,17 @@
+body{
+    background-image: url(../img/Fundo\ 4.webp);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    color:white;
+    background-attachment: fixed;
+}
+
+img{
+    width: 250px;
+    height: 250px;
+}
+
+a{
+    color: aquamarine;
+    text-decoration: none;
+}
